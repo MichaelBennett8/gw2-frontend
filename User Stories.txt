@@ -1,0 +1,11 @@
+As a User
+			I would like to be able to log in		so I can view information on my account
+			I would like to see game state 
+				information							so I can stay up to date on the game state
+			I would like to see WvW state 
+				information							so I can stay up to date on the WvW state
+			I would like to see information
+				on my guild							so I can see what the guild needs and can offer
+			I would like to see PvP information		so I can stay up to date on PvP
+			I would like my authorization to be 
+				saved								so I don't have to log in every time I access the client
